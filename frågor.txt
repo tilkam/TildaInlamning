@@ -1,0 +1,18 @@
+1. När använder man add respektive commit?
+   add använder man när något skall läggas till i vårt staging area och commit 
+   används för att bekräfta det man gjort samt spara händelsen med ett meddelande. 
+
+2. Vad är pull respektive push?
+   Pull används när vi vill synka från ett remote repository och push används 
+   när vi vill skicka våra ändringar till remote repository.
+
+3. När använder man log respektive status?
+   log används när vi vill se våra tidigare commits och  status används för att se 
+   te.x ändringar vi gjort i filer, när vi skapat nya filer eller raderat filer.
+   Har något ändrats i vår arbetsmapp så kommer det synas när vi skriver git status.
+   (om filen inte tillhör .gitginore dvs)
+
+4. Hur kan man formulera sig i sina commit-meddelanden?
+   Det är bra att kort beskriva vad det är man gjort. Om man ändrat något, vad är 
+   det man har ändrat? Har man lagt till en fil? uppdaterat en text osv. Så att 
+   det är lätt att förstå vad man ska gå tillbaka till om något behöver ändras. 
